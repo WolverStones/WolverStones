@@ -3,7 +3,7 @@
 ## I'm a Gamer, Website and Game Developer!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw and play guitar
+- ⚡ Fun fact: I love music and play guitar
 - 🍔 I Love Food
 
 ### Connect with me:

@@ -1,0 +1,10 @@
+{
+   "workbench.colorCustomizations": {
+      "vetur.validation.template": false,
+      "vetur.validation.script": false,
+      "vetur.validation.style": false,
+      "activityBar.background": "#0F3236",
+      "titleBar.activeBackground": "#15474C",
+      "titleBar.activeForeground": "#F7FCFD"
+   }
+}

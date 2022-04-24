@@ -10,7 +10,7 @@
 
 Discord: 
 
-[<img align="left" alt="Discord" width="26px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="padding-right:10px;" />] WolverStone#0298
+<img align="left" alt="Discord" width="26px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="padding-right:10px;" /> `WolverStone#0298`
 
 ### Languages and Tools:
 

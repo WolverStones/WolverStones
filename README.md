@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love music and play guitar
 - 🍔 I Love Food
+- 💔 I hate `SilviaGames` and `Samkofifi2`
 
 ### Connect with me:
 

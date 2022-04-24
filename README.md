@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-My webiste: 🌍 [website]
+My Web: 🌍 [Web]
 
 <img align="left" alt="Discord" width="26px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="padding-right:10px;" /> `WolverStone#0298`
 
@@ -33,6 +33,6 @@ My webiste: 🌍 [website]
 
 ---
 
-[website]: https://patrik-muller.cz
+[Web]: https://patrik-muller.cz
 [youtube]: https://www.youtube.com/channel/UCioIeDm0GShz-WNufD4Q5SA
 

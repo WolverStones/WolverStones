@@ -3,12 +3,10 @@
 ## I'm a Gamer, Website and Game Developer!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw and play guitar
+- ⚡ Fun fact: I love music and play guitar
 - 🍔 I Love Food
 
 ### Connect with me:
-
-Discord: 
 
 <img align="left" alt="Discord" width="26px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="padding-right:10px;" /> `WolverStone#0298`
 

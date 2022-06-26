@@ -34,6 +34,5 @@ My Web: 🌍 [Web]
 
 ---
 
-[Web]: https://patrik-muller.cz
 [youtube]: https://www.youtube.com/channel/UCioIeDm0GShz-WNufD4Q5SA
 

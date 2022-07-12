@@ -1,11 +1,11 @@
 # Hi there, I'm Patrik - aka WolverStone 👋 
 
-## I'm a Gamer, Website and Game Developer!
+## I'm a Gamer, Website, Discord bot and Game Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love music and play guitar
 - 🍔 I Love Food
-- 💔 I hate `SilviaGames` and `Samkofifi2`
+- 🐺 Fretka je super!
 
 ### Connect with me:
 

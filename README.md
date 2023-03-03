@@ -2,11 +2,6 @@
 
 ## I'm a Gamer, Website, Discord bot and Game Developer!
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love music and play guitar
-- 🍔 I Love Food
-- 🐺 Fretka je super!
-
 ### Connect with me:
 
 <img align="left" alt="Discord" width="26px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="padding-right:10px;" /> `WolverStone#0298`

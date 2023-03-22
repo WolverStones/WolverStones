@@ -6,6 +6,8 @@
 
 <img align="left" alt="Discord" width="26px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="padding-right:10px;" /> `WolverStone#0298`
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/wolverstones/wolverstones/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/wolverstones/wolverstones/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][Web]

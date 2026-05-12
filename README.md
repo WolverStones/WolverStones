@@ -1,4 +1,4 @@
-# Hi there, I'm Patrik - aka WolverStone 👋 
+# Hi there 👋 
 
 ## I'm a Gamer, Website, Discord bot and Game Developer!
 
